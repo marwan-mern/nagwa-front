@@ -1,0 +1,21 @@
+.HomeContainer{
+    width: 100vw;
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.StartButton{
+    border: 1px solid transparent;
+    background-color: #78b517;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+.StartButton a{
+    color: white;
+    font-size: large;
+    font-weight: 500;
+}
+
